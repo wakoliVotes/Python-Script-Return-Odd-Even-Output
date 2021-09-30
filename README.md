@@ -1,4 +1,4 @@
-Python Function
+## Python Script Main Aspects
 
 Is sum odd or even? --- Python Program
 
